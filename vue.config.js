@@ -1,3 +1,4 @@
 module.exports = {
-  transpileDependencies: true
+  transpileDependencies: true,
+  lintOnSave: false
 }
